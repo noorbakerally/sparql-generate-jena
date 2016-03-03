@@ -1,9 +1,0 @@
-org.w3id.sparql.generate
-org.w3id.sparql.generate.engine
-org.w3id.sparql.generate.function.library
-org.w3id.sparql.generate.lang
-org.w3id.sparql.generate.query
-org.w3id.sparql.generate.selector
-org.w3id.sparql.generate.selector.library
-org.w3id.sparql.generate.serializer
-org.w3id.sparql.generate.syntax
