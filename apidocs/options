@@ -15,7 +15,7 @@
 -docencoding
 'UTF-8'
 -doctitle
-'SPARQL Generate over Apache Jena 0.9 API'
+'SPARQL Generate over Apache Jena 0.10-SNAPSHOT API'
 -link
 'https://jena.apache.org/documentation/javadoc/arq'
 -link
@@ -25,4 +25,4 @@
 -use
 -version
 -windowtitle
-'SPARQL Generate over Apache Jena 0.9 API'
+'SPARQL Generate over Apache Jena 0.10-SNAPSHOT API'
